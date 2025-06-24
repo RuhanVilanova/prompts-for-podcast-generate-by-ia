@@ -17,7 +17,7 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que e
 - Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
 - Não utilize a palavra frontend no nome nem qualquer variação dela
 
-# Episódio de Podcast
+# Episódio de Podcast Prompt
 
 Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "DevQuest - A Ordem dos Desenvolvedores" e tem foco em frontend,  com o público alvo de iniciantes em frontend
 
