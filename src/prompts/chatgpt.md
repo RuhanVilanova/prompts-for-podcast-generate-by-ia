@@ -6,7 +6,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
+conteúdo | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
 
 O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado
 
