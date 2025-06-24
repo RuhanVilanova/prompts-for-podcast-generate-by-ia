@@ -19,25 +19,25 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que e
 
 # Episódio de Podcast Prompt
 
-Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "DevQuest - A Ordem dos Desenvolvedores" e tem foco em frontend,  com o público alvo de iniciantes em frontend
+Você é um roteirista de podcast e vai criar um roteiro para um podcast de moda focado em tênis, cujo nome é "SneakerDrop - Desvendando os Tênis". O público-alvo são iniciantes e entusiastas do mundo dos tênis.
 
-o formato do roteiro deve ser
+O formato do roteiro deve ser:
+
 [INTRODUÇÃO]
 [CURIOSIDADE 1]
 [CURIOSIDADE 2]
 [FINALIZAÇÃO]
+REGRAS:
 
-{REGRAS}
+No bloco [INTRODUÇÃO], substitua por uma introdução no estilo dos vídeos do canal 'Edson Castro', como se fosse escrita pelo Edson Castro.
+No bloco [CURIOSIDADE 1], substitua por uma curiosidade sobre a história de um tênis clássico (ex: Air Jordan, Puma).
+No bloco [CURIOSIDADE 2], substitua por uma curiosidade sobre como identificar tênis falsificados ou sobre uma tecnologia de amortecimento (ex: Boost, Air Max).
+No bloco [FINALIZAÇÃO], substitua por uma despedida descolada com o final: "Eu sou Ruhan Vilanova e esse foi o SneakerDrop dessa semana!"
+Use termos de fácil explicação para quem está começando no universo dos tênis.
+O podcast será apresentado por apenas uma pessoa, chamada  Ruhan Vilanova.
+O podcast deve ser curto e dinâmico.
+REGRAS NEGATIVAS:
 
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
-- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
-- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Felipão e esse foi o CodeQuest dessa semana'
-- use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Felipão
-- O podcast deve ser curto
-
-{REGRAS NEGATIVAS}
-
-- Não use muitos termos técnicos
-- Não ultrapasse 5 minutos de duração |Add commentMore actions
+Não use muitos termos técnicos ou jargões da moda que não sejam explicados.
+Não ultrapasse 5 minutos de duração.
+Este prompt está mais alinhado com o tema de tênis e mantém todas as suas especificações originais. Gostaria de criar um roteiro com base nele agora?
