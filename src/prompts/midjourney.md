@@ -2,3 +2,4 @@
 
 Opção 2: Personagem Estilizado para Podcast de Tênis
 "Stylish character with oversized sneakers as a podcaster holding a microphone, streetwear fashion style, isometric, cube, game style, low resolution, down angle, vibrant neon colors, 8 bits, retro sprites --ar 1:1 --v 5.2"
+![ChatGPT Image 25 de jun  de 2025, 07_56_04](https://github.com/user-attachments/assets/829aba48-5a48-498c-953c-c3a078cb72b3)
